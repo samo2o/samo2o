@@ -1,6 +1,6 @@
 # Hi there, I'm Sami! 👋
 
-> "Part-time vibe coder, full-time stack overflow copy-paster, currently manifest-building apps nobody asked for."
+> "A part‑time vibe coder, full‑time Claude copy‑paster, cooking up apps nobody asked for."
 
 ---
 
